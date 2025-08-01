@@ -5,7 +5,7 @@
     'version' : '1.0',
     'summary': 'custom sale for fidar task',
     'sequence': 0,
-    'description': '''fidar task 1 ''',
+    'description': '''fidar task  ''',
     'category': 'Productivity',
     'website': 'https://www.odoo.com/page/billing',
     'license': 'LGPL-3',
